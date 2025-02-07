@@ -1,5 +1,5 @@
 # Shutters Wiki
-Welcome to the wiki-site of Shutters. Everything you want to know about the shutters and its functionalities is listed here.
+Welcome to the wiki-site of Shutters. Everything you want to know about the shutters and its functionalities is listed here.\
 Summary:
 [BlockStates](https://github.com/nudelauflauch/shutter-wiki/tree/main?tab=readme-ov-file#block-states) – [Connectivity & Double Shutters](https://github.com/nudelauflauch/shutter-wiki/tree/main?tab=readme-ov-file#connectivity-and-double-shutters) – [Redstone Usage](https://github.com/nudelauflauch/shutter-wiki/tree/main?tab=readme-ov-file#redstone-usage) – [Special Shutters](https://github.com/nudelauflauch/shutter-wiki/tree/main?tab=readme-ov-file#redstone-usage)
 
