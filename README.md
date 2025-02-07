@@ -79,3 +79,45 @@ on the left: normal shutter – on the right: enormous shutter
     (like Supplementaries:gold_door/trapdoor) \
   • Netherite Shutter: ignores redstone sometimes (idk why) \
   • Glass Shutter: is funky transparent
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  
+  \°o°/
