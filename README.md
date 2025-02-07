@@ -120,4 +120,4 @@ on the left: normal shutter – on the right: enormous shutter
   </br>
   </br>
   
-  \°o°/
+![grafik](https://github.com/user-attachments/assets/e3a044a8-64ad-41e8-a0f8-0cb94b7aac8d)
